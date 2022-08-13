@@ -11,9 +11,7 @@
  <a href="https://twitter.com/PodderSoumyanil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soumyanil22&style=for-the-badge" alt="soumyanil"/></p>
-<p align="center">Hi, this is me Soumyanil 
-  <br />
-<img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> I am From Kolkata, India
+<p align="center">Hi, this is me Soumyanil <img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> from Kolkata, India , a full stack developer and competitive programming enthusiast, who is open to work in a start-up. Obsessed with the idea of improving himself and wants to grow and excel.
   
 </p>
   
