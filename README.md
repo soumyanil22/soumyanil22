@@ -18,7 +18,7 @@
   
 <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p>
 
-### Tools and Languages I Know :
+#### Tools and Languages I Know :
 <p><img width="15px" height="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" />HTML</p>
 
 
