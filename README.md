@@ -13,9 +13,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soumyanil22&style=for-the-badge" alt="soumyanil"/></p>
 <p align="center">Hi, this is me Soumyanil <img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> from Kolkata, India , a full stack developer and competitive programming enthusiast, who is open to work in a start-up. Obsessed with the idea of improving himself and wants to grow and excel.
   
-  favourite quote - "You will face many defeats in Life
-                     But don't let yourself get defeated"
-                                          - Maya Angelou
+  favourite quote : "You will face many defeats in Life But don't let yourself get defeated" - Maya Angelou
 </p>
   
 <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p>
