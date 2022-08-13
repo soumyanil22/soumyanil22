@@ -14,7 +14,7 @@
 
   ### Hi, this is me Soumyanil 
   
-  -[x] I am a Full Stack Web Developer
+  - [x] I am a Full Stack Web Developer
   
 <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p>
 
