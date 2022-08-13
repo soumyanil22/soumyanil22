@@ -12,7 +12,7 @@
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soumyanil22&style=for-the-badge" alt="soumyanil"/></p>
 <p align="center">Hi, this is me Soumyanil 
-                 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> I am a Full Stack Web Developer
+                 <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> I am a Full Stack Web Developer
 </p>
   
 <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p>
