@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/soumyanil-podder-769008165/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href="https://twitter.com/PodderSoumyanil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
 </p>
-
+![](https://komarev.com/ghpvc/?username=soumyanil22)
 <!--
 **soumyanil22/soumyanil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
