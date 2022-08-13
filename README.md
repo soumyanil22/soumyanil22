@@ -11,12 +11,12 @@
  <a href="https://twitter.com/PodderSoumyanil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soumyanil22&style=for-the-badge" alt="soumyanil"/></p>
-<p align="center">
-### Hi, this is me Soumyanil 
+<!-- <p align="center"> -->
+   ### Hi, this is me Soumyanil 
   
-- [x] I am a Full Stack Web Developer
+   - [x] I am a Full Stack Web Developer
   
-  </p>
+<!--   </p> -->
   
 <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p>
 
