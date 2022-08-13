@@ -11,7 +11,7 @@
  <a href="https://twitter.com/PodderSoumyanil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soumyanil22&style=for-the-badge" alt="soumyanil"/></p>
-![image](https://user-images.githubusercontent.com/33495426/184498462-ddad498b-c2ac-45a7-a0ad-0b33d6566c3f.png)
+<p align="right"><img src="https://user-images.githubusercontent.com/33495426/184498462-ddad498b-c2ac-45a7-a0ad-0b33d6566c3f.png" alt="my-avatar"/></p>
 
 <!--
 **soumyanil22/soumyanil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
