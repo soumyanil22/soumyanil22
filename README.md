@@ -26,6 +26,24 @@
  
 
 <!--
+<h2> 📊 My Github Stats</h2>
+
+  [![Shakils's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-DS&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>✨ Top Languages Card</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-DS&layout=compact)](https://github.com/ahmad-DS/github-readme-stats)
+
+
+<br/>
+<br/>
+
+
+[![Shakil's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmad-DS&theme=react-dark)](https://github.com/ahmad-DS/github-readme-activity-graph)
+
+
+<br/>
+<br/>
 **soumyanil22/soumyanil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
