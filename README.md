@@ -18,6 +18,24 @@
   
   <b>favourite quote :</b> <i>"You will face many defeats in Life But never let yourself be defeated"</i> - Maya Angelou
 </p>
+<h2> 📊 My Github Stats</h2>
+
+  [![Soumyanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyanil22&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>✨ Top Languages Card</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyanil22&layout=compact)](https://github.com/soumyanil22/github-readme-stats)
+
+
+<br/>
+<br/>
+
+
+[![Soumyanil's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumyanil22&theme=react-dark)](https://github.com/soumyanil22/github-readme-activity-graph)
+
+
+<br/>
+<br/>
   
 <p align="right"><img width="200px" src="https://user-images.githubusercontent.com/33495426/184498522-ebf54f35-56dd-4285-acca-9023e54c936e.png" alt="my-avatar"/></p>
 
@@ -26,24 +44,7 @@
  
 
 <!--
-<h2> 📊 My Github Stats</h2>
 
-  [![Shakils's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-DS&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>✨ Top Languages Card</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-DS&layout=compact)](https://github.com/ahmad-DS/github-readme-stats)
-
-
-<br/>
-<br/>
-
-
-[![Shakil's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmad-DS&theme=react-dark)](https://github.com/ahmad-DS/github-readme-activity-graph)
-
-
-<br/>
-<br/>
 **soumyanil22/soumyanil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
