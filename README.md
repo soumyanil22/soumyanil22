@@ -14,7 +14,7 @@
     </a>
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=soumyanil22&style=for-the-badge" alt="soumyanil"/></p>
-<p align="center"><img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> A full stack web developer(MERN) and competitive programming enthusiast, who is open to work in a start-up environment, obsessed with the idea of improving himself and wants to grow and excel.
+<p align="center"><img width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/checkmarx.svg" alt="check-mark" /> A full stack web developer(MERN) and competitive programming enthusiast, with strong organizational skills, loves problem solving, and willing to collaborate with a team to achieve organizational goals.
   
   <h2><b>Favourite quote :</b></h2><h3> <i>"You will face many defeats in Life But never let yourself be defeated"</i></h3> - Maya Angelou
 </p>
