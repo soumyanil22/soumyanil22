@@ -54,8 +54,7 @@
 <br/>
 
 
-[![Soumyanil's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumyanil22&theme=react-dark)](https://github.com/soumyanil22/github-readme-activity-graph)
-
+[![Soumyanil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soumyanil22&theme=react-dark)](https://github.com/soumyanil22/github-readme-activity-graph)
 
 <br/>
 <br/>
